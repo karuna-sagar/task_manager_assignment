@@ -203,6 +203,4 @@ Edtech/
    ```
 5. Open a pull request.
 
-## License
-MIT License
 
